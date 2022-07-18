@@ -1,0 +1,41 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="$SearchWeb">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="Editor SearchWeb">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="EditorContextInfo" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="RestartIde">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="ShowColorPicker">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="context_menu" />
+    <keyboard-shortcut first-keystroke="shift alt a" />
+  </action>
+  <action id="UpdateRunningApplication" />
+  <action id="Vcs.Log.ShowAllAffected" />
+  <action id="VcsHistory.ShowAllAffected" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+</keymap>
