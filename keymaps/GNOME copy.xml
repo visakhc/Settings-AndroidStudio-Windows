@@ -2,6 +2,11 @@
   <action id="$SearchWeb">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <mouse-shortcut keystroke="control button1 doubleClick" />
+  </action>
   <action id="Editor SearchWeb">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
