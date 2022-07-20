@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="ScrCpy" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="scrcpy" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="/snap/scrcpy/386/meta/gui" />
+    </exec>
+  </tool>
+</toolSet>
