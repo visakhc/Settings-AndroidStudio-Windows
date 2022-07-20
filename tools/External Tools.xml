@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="scrcpy" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="/snap/scrcpy/386/meta/gui" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
