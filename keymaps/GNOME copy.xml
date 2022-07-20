@@ -27,6 +27,7 @@
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
+  <action id="SaveAll" />
   <action id="ShowColorPicker">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
@@ -37,6 +38,10 @@
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="context_menu" />
     <keyboard-shortcut first-keystroke="shift alt a" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.ShowAllAffected" />
