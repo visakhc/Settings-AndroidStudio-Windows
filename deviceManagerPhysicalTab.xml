@@ -4,6 +4,17 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R9JN4180WJJ" />
+          </Key>
+        </key>
+        <name value="samsung SM-M115F" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-d1180929-dyy9MS._adb-tls-connect._tcp" />
           </Key>
