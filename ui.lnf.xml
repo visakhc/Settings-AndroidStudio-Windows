@@ -1,4 +1,7 @@
 <application>
+  <component name="KeyboardSettings">
+    <option name="enabled" value="true" />
+  </component>
   <component name="UISettings">
     <option name="MAX_LOOKUP_WIDTH2" value="1150" />
   </component>
