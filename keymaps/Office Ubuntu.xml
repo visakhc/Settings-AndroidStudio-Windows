@@ -19,6 +19,14 @@
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="EditorContextInfo" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <mouse-shortcut keystroke="control button142" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <mouse-shortcut keystroke="control button143" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="alt e" />
