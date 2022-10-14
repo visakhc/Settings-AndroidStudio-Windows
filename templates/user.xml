@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="lt" value="logThis($Any)" description="adds logThis method and prints the arguments to the DEBUG Logcat" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
