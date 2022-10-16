@@ -149,9 +149,17 @@
           <option name="url" value="https://github.com/videolan/vlc-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sindhujaMK/MVVM.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nickbutcher/plaid.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\LENOVO\Desktop" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/TrashProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
