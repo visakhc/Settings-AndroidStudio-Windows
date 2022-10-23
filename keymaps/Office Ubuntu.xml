@@ -19,6 +19,9 @@
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="EditorContextInfo" />
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <mouse-shortcut keystroke="control button142" />
