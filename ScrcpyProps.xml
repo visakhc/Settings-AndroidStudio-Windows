@@ -1,0 +1,10 @@
+<application>
+  <component name="com.codertainment.scrcpy.controller.model.ScrcpyProps">
+    <option name="alwaysOnTop" value="true" />
+    <option name="bitRate" value="200" />
+    <option name="borderless" value="true" />
+    <option name="maxFps" value="100" />
+    <option name="stayAwake" value="true" />
+    <option name="turnScreenOff" value="true" />
+  </component>
+</application>
