@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="d1180929" />
+          </Key>
+        </key>
+        <name value="Xiaomi Redmi Note 9 Pro" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="R9JN4180WJJ" />
           </Key>
         </key>
@@ -17,17 +28,6 @@
           <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-d1180929-dyy9MS._adb-tls-connect._tcp" />
-          </Key>
-        </key>
-        <name value="Xiaomi Redmi Note 9 Pro" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="d1180929" />
           </Key>
         </key>
         <name value="Xiaomi Redmi Note 9 Pro" />
