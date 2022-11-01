@@ -3,5 +3,6 @@
     <option name="alwaysOnTop" value="true" />
     <option name="ip3" value="29" />
     <option name="ip4" value="1" />
+    <option name="turnScreenOff" value="true" />
   </component>
 </application>
