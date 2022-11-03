@@ -1,8 +1,9 @@
 <application>
   <component name="com.codertainment.scrcpy.controller.model.ScrcpyProps">
     <option name="alwaysOnTop" value="true" />
+    <option name="forceAdbForward" value="true" />
     <option name="ip3" value="29" />
     <option name="ip4" value="1" />
-    <option name="turnScreenOff" value="true" />
+    <option name="scrcpyPath" value="" />
   </component>
 </application>
