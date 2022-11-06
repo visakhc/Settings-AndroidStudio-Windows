@@ -1,4 +1,4 @@
-<keymap version="1" name="Office Ubuntu" parent="Default for GNOME">
+<keymap version="1" name="Windows copy" parent="$default">
   <action id="$SearchWeb">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
