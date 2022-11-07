@@ -22,6 +22,10 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="MakeGradleProject">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <mouse-shortcut keystroke="control button142" />
