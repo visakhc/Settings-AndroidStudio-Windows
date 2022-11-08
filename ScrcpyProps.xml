@@ -1,5 +1,6 @@
 <application>
   <component name="com.codertainment.scrcpy.controller.model.ScrcpyProps">
     <option name="scrcpyPath" value="C:\Program Files\Scrcpy" />
+    <option name="stayAwake" value="true" />
   </component>
 </application>
