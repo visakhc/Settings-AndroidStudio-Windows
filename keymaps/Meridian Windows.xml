@@ -1,4 +1,4 @@
-<keymap version="1" name="Visakh's Windows Keymap" parent="$default">
+<keymap version="1" name="Meridian Windows" parent="$default">
   <action id="$SearchWeb">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
