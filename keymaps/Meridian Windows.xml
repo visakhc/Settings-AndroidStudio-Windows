@@ -28,11 +28,11 @@
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
-    <mouse-shortcut keystroke="shift button143" />
+    <mouse-shortcut keystroke="shift alt button143" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
-    <mouse-shortcut keystroke="shift button142" />
+    <mouse-shortcut keystroke="shift alt button142" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
