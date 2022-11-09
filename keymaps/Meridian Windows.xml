@@ -19,6 +19,7 @@
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="EditorContextInfo" />
+  <action id="ExportToTextFile" />
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
@@ -29,6 +30,10 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <mouse-shortcut keystroke="shift alt button143" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
