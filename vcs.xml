@@ -14,9 +14,13 @@
           <option name="url" value="https://github.com/PhilJay/MPAndroidChart.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/visakhc/Clerky.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\TrashApps" />
+    <option name="cloneParentDir" value="E:\Personal" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
