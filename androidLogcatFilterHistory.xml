@@ -3,10 +3,10 @@
     <option name="mostRecentlyUsed" value="package:mine tag:logThis " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine tag:logThis " />
         <option value="package:mine tag:logThis" />
         <option value="tag:logThis" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
