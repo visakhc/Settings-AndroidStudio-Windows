@@ -18,9 +18,13 @@
           <option name="url" value="https://github.com/visakhc/Clerky.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/meridianandroid/paragon-customer-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\Personal" />
+    <option name="cloneParentDir" value="E:\" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
