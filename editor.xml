@@ -2,9 +2,6 @@
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_METHODS" value="true" />
   </component>
-  <component name="CodeInsightSettings">
-    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="CARET_BLINKING_PERIOD" value="200" />
