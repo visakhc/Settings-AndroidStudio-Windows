@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine  tag:logThis " />
+        <option value="package:mine  tag:onFling" />
         <option value="package:mine " />
         <option value="package:mine  tag:lo" />
         <option value="package:mine  " />
