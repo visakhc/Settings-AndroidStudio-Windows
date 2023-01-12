@@ -1,6 +1,6 @@
 <application>
   <component name="com.codertainment.scrcpy.controller.model.ScrcpyProps">
     <option name="alwaysOnTop" value="true" />
-    <option name="scrcpyPath" value="C:\Program Files\Scrcpy" />
+    <option name="scrcpyPath" value="C:\Program Files\scrcpy" />
   </component>
 </application>
