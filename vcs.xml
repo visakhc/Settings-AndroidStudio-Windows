@@ -74,6 +74,10 @@
           <option name="url" value="https://github.com/Ajinkrishnak/Jetpack-pagination-with-roomdb.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AliAsadi/Android-Clean-Architecture.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Sample" />
