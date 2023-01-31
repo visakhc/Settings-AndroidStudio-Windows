@@ -43,6 +43,17 @@
         <name value="Device" />
         <target value="Android 1.0" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="8HAE6DMRD6FQTC99" />
+          </Key>
+        </key>
+        <name value="vivo vivo 1814" />
+        <target value="Android 8.1" />
+        <api value="androidversion:27:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
