@@ -5,7 +5,7 @@
         <option value="tag:logThis " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:logThis " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine  tag:logThis" />
