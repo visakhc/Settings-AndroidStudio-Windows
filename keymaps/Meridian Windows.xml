@@ -20,6 +20,10 @@
   </action>
   <action id="EditorContextInfo" />
   <action id="ExportToTextFile" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>

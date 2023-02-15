@@ -5,12 +5,22 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="R9JN4180WJJ" />
+          </Key>
+        </key>
+        <name value="samsung SM-M115F" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="DRGID19020708775" />
           </Key>
         </key>
-        <name value="HMD Global Nokia 6.1 Plus" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -30,20 +40,8 @@
             <value value="32011de44d3c544a" />
           </Key>
         </key>
-        <name value="samsung SM-J106F" />
-        <target value="Android 6.0" />
-        <api value="androidversion:23:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R9JN4180WJJ" />
-          </Key>
-        </key>
-        <name value="samsung SM-M115F" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
