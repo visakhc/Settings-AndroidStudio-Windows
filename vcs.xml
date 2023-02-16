@@ -34,6 +34,10 @@
           <option name="url" value="https://visakh_c@bitbucket.org/innerix-mob/elance-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="visakh_c" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\FREELANCE" />
