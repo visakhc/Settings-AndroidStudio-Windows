@@ -4,12 +4,12 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:logThis " />
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine tag:logThis" />
         <option value="package:mine  tag:logThis   " />
         <option value="package:mine  tag:logThis   tag=:okhttp.OkHttpClien" />
         <option value="package:mine  tag:logThis   tag=:okhttp.OkHttpClient" />
-        <option value="package:mine" />
         <option value="package:mine tag:logThis   tag=:okhttp.OkHttpClient" />
         <option value="package:mine tag:logThis   tag=:okhttp.OkHttpClien" />
         <option value="tag:logThis" />
