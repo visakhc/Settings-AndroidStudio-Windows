@@ -50,6 +50,10 @@
           <option name="url" value="https://gitlab.com/meridianandroid/nativ-delivery-manager.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/meridianandroid/lifeline-hospital.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\" />
