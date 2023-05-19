@@ -50,6 +50,14 @@
           <option name="url" value="https://gitlab.com/meridianandroid/zeugar-manager.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/darshna22/android-apps-deeplinking.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AMMA-Family/android-navigation-deeplinks.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\" />
