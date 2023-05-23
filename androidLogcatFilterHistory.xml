@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.nativ.nativapp  " />
+    <option name="mostRecentlyUsed" value="package:com.nativ.nativapp tag:logThis " />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.nativ.nativapp  " />
         <option value="package:com.nativ.nativapp tag:logThis " />
+        <option value="package:com.nativ.nativapp  " />
         <option value="package:mine tag:logThis " />
         <option value="package:mine tag:logThis" />
         <option value="package:mine" />
