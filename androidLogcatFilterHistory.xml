@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.zulekhahospitals.zulekhaapp tag:okhttp.OkHttpClient tag:logThis" />
+    <option name="mostRecentlyUsed" value="package:com.zulekhahospitals.zulekhaapp " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.zulekhahospitals.zulekhaapp " />
         <option value="package:com.zulekhahospitals.zulekhaapp tag:okhttp.OkHttpClient tag:logThis" />
         <option value="package:com.zulekhahospitals.zulekhaapp tag:okhttp.OkHttpClient" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine t" />
         <option value="package:mine tag:logThi" />
         <option value="package:mine  tag:logThis   " />
-        <option value="package:mine  tag:logThis   tag=:okhttp.OkHttpClien" />
       </list>
     </option>
   </component>
