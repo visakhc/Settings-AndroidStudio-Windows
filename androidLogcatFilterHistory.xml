@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.restaurant.calicutparagon.ae tag:logThis " />
+        <option value="package:com.restaurant.calicutparagon.ae " />
         <option value="package:com.restaurant.calicutparagon.ae" />
         <option value="package:mine  tag:logThis " />
         <option value="package:mine  " />
@@ -22,7 +23,6 @@
         <option value="package:mine  tag:logT" />
         <option value=" tag:logThis " />
         <option value="package:mine tag:logT" />
-        <option value="package:mine   tag:logThis" />
       </list>
     </option>
   </component>
