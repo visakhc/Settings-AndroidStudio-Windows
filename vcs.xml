@@ -31,39 +31,39 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://visakh_c@bitbucket.org/innerix-mob/elance-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="Ashiq666" />
+          <option name="userName" value="visakh_c" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/firebase/snippets-android.git" />
+          <option name="url" value="https://github.com/tonyofrancis/Fetch.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/Ajinkrishnak/TmdbAppCompose.git" />
+          <option name="url" value="https://gitlab.com/meridianandroid/the-light.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/ibrajix/NftApp.git" />
+          <option name="url" value="https://gitlab.com/meridianandroid/nativ-delivery-manager.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitlab.com/meridianandroid/zeugar-manager.git" />
+          <option name="url" value="https://gitlab.com/meridianandroid/lifeline-hospital.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/darshna22/android-apps-deeplinking.git" />
+          <option name="url" value="https://github.com/visakhc/SpendLog.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/AMMA-Family/android-navigation-deeplinks.git" />
+          <option name="url" value="https://github.com/ygngy/multiswipe.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/kasem-sm/DynamicLinksPlayground.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/meet2602/MeetMyShow.git" />
+          <option name="url" value="https://gitlab.com/meridianandroid/tmp01.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
@@ -71,6 +71,7 @@
     <option name="cloneParentDir" value="E:\" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
@@ -81,7 +82,7 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Desktop" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>

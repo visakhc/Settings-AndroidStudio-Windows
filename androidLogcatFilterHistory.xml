@@ -3,25 +3,25 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="package:mine :" />
-        <option value="package:mine tag:logThis " />
-        <option value="package:mine tag:logThis" />
-        <option value="package:mine  tag:logThis   " />
-        <option value="package:mine  tag:logThis   tag=:okhttp.OkHttpClien" />
-        <option value="package:mine  tag:logThis   tag=:okhttp.OkHttpClient" />
-        <option value="package:mine" />
-        <option value="package:mine tag:logThis   tag=:okhttp.OkHttpClient" />
-        <option value="package:mine tag:logThis   tag=:okhttp.OkHttpClien" />
-        <option value="tag:logThis" />
-        <option value="package:mine tag:okhttp.OkHttpClient tag:logThis " />
-        <option value="tag:logThis " />
-        <option value="package:mine  tag:logThis" />
-        <option value="package:mine  " />
+        <option value="package:com.restaurant.calicutparagon.ae " />
+        <option value="package:com.restaurant.calicutparagon.ae tag:logThis" />
+        <option value="package:com.restaurant.calicutparagon.ae tag:logThi" />
+        <option value="package:com.restaurant.calicutparagon.ae" />
+        <option value="package:com.restaurant.calicutparagon.ae tag:logThis " />
         <option value="package:mine  tag:logThis " />
-        <option value="package:mine  tag:onFling" />
-        <option value="package:mine  tag:lo" />
-        <option value=" tag:logThis " />
-        <option value="package:mine   tag:logThis " />
+        <option value="package:mine  " />
+        <option value="package:mine tag:logThis " />
+        <option value="package:com.nativ.nativapp" />
+        <option value="package:com.zulekhahospitals.zulekhaapp tag:OkHttp tag:logThis" />
+        <option value="package:com.zulekhahospitals.zulekhaapp " />
+        <option value="package:com.zulekhahospitals.zulekhaapp tag:okhttp.OkHttpClient tag:logThis" />
+        <option value="package:com.zulekhahospitals.zulekhaapp tag:okhttp.OkHttpClient" />
+        <option value="package:com.nativ.nativapp tag:logThis " />
+        <option value="package:com.nativ.nativapp  " />
+        <option value="package:mine tag:logThis" />
+        <option value="package:mine" />
+        <option value="package:mine tag:log'" />
+        <option value="package:mine  tag:logT" />
       </list>
     </option>
   </component>
