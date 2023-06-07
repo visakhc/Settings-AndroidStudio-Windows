@@ -15,11 +15,13 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <mouse-shortcut keystroke="alt button142" />
   </action>
+  <action id="DuplicatesForm.SendToLeft" />
   <action id="Editor SearchWeb">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="EditorContextInfo" />
   <action id="ExportToTextFile" />
+  <action id="FileChooser.GotoHome" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="alt f" />
@@ -27,6 +29,7 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="GotoBookmark1" />
   <action id="MakeGradleProject">
     <keyboard-shortcut first-keystroke="ctrl f9" />
     <keyboard-shortcut first-keystroke="alt b" />
@@ -49,6 +52,9 @@
   </action>
   <action id="RestartIde">
     <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
