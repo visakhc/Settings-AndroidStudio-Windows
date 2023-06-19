@@ -5,6 +5,8 @@
       <list>
         <option value="package:mine" />
         <option value="package:mine tag:logThis " />
+        <option value="package:mine tag:okhttp.OkHttpClient" />
+        <option value="package:mine tag:logT" />
         <option value="package:mine " />
         <option value="package:mine  tag:logThis " />
         <option value="package:mine  " />
@@ -21,8 +23,6 @@
         <option value="package:com.zulekhahospitals.zulekhaapp tag:OkHttp tag:logThis" />
         <option value="package:com.zulekhahospitals.zulekhaapp " />
         <option value="package:com.zulekhahospitals.zulekhaapp tag:okhttp.OkHttpClient tag:logThis" />
-        <option value="package:com.zulekhahospitals.zulekhaapp tag:okhttp.OkHttpClient" />
-        <option value="package:com.nativ.nativapp tag:logThis " />
       </list>
     </option>
   </component>
