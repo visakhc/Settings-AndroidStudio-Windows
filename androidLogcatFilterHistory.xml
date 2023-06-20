@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.meridian.cmfri.survey tag:logThis " />
+    <option name="mostRecentlyUsed" value="package:com.meridian.cmfri.survey tag:logT" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.meridian.cmfri.survey tag:logT" />
+        <option value="package:com.meridian.cmfri.survey t" />
         <option value="package:com.meridian.cmfri.survey tag:logThis " />
         <option value="package:mine" />
         <option value="package:mine tag:logT" />
@@ -21,8 +23,6 @@
         <option value="package:com.restaurant.calicutparagon.ae" />
         <option value="package:com.restaurant.calicutparagon.ae tag:logThis " />
         <option value="package:com.nativ.nativapp" />
-        <option value="package:com.zulekhahospitals.zulekhaapp tag:OkHttp tag:logThis" />
-        <option value="package:com.zulekhahospitals.zulekhaapp " />
       </list>
     </option>
   </component>
