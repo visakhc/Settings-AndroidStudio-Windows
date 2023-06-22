@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:logThis " />
+    <option name="mostRecentlyUsed" value="package:mine tag:logThi" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:logThi" />
+        <option value="package:mine " />
         <option value="package:mine tag:logThis " />
         <option value="package:mine tag:logThis tag:OsmDroid " />
         <option value="package:mine tag:logThis tag" />
@@ -18,9 +20,7 @@
         <option value="package:mine tag:logThis" />
         <option value="package:mine tag:OneSignal" />
         <option value="package:mine tag:logT" />
-        <option value="package:mine " />
         <option value="package:mine t" />
-        <option value="package:mine tag:logThi" />
         <option value="package:mine  tag:logThis   " />
         <option value="package:mine  tag:logThis   tag=:okhttp.OkHttpClien" />
       </list>
