@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  " />
         <option value="package:mine " />
         <option value="package:mine  tag:logThis" />
         <option value="package:mine tag:logT" />
@@ -13,7 +15,6 @@
         <option value="package:com.meridian.cmfri.survey tag:logThis " />
         <option value="package:mine tag:okhttp.OkHttpClient" />
         <option value="package:mine  tag:logThis " />
-        <option value="package:mine  " />
         <option value="tag:logThis" />
         <option value="package:mine tag:log" />
         <option value="package:mine tag:logThis" />
