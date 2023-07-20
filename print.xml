@@ -1,7 +1,7 @@
 <application>
   <component name="PrintSettings">
     <option name="printScope" value="2" />
-    <option name="PAPER_SIZE" value="A3" />
+    <option name="PAPER_SIZE" value="A5" />
     <option name="COLOR_PRINTING" value="true" />
     <option name="PORTRAIT_LAYOUT" value="false" />
   </component>

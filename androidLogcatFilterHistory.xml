@@ -1,0 +1,28 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine " />
+        <option value="package:mine  tag:logThis " />
+        <option value="package:mine  " />
+        <option value="package:mine  tag:logThis" />
+        <option value="package:mine tag:logT" />
+        <option value="package:mine ta" />
+        <option value="package:mine tag:logThis " />
+        <option value="package:mine" />
+        <option value="package:com.meridian.cmfri.survey tag:logT" />
+        <option value="package:com.meridian.cmfri.survey t" />
+        <option value="package:com.meridian.cmfri.survey tag:logThis " />
+        <option value="package:mine tag:okhttp.OkHttpClient" />
+        <option value="tag:logThis" />
+        <option value="package:mine tag:log" />
+        <option value="package:mine tag:logThis" />
+        <option value="package:mine tag:OkHttp tag:logThis" />
+        <option value="package:com.restaurant.calicutparagon.ae " />
+        <option value="package:com.restaurant.calicutparagon.ae tag:logThis" />
+        <option value="package:com.restaurant.calicutparagon.ae tag:logThi" />
+        <option value="package:com.restaurant.calicutparagon.ae" />
+      </list>
+    </option>
+  </component>
+</application>
