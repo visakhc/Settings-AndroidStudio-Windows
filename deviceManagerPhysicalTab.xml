@@ -38,26 +38,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="DRGID19020708775" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="32011de44d3c544a" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="RZCW218WNWY" />
           </Key>
         </key>
